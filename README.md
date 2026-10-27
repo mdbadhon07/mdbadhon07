@@ -15,7 +15,7 @@ Hi, I'm Badhon 👋<br><br>A Computer Science and Technology student from Bangla
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdbadhon07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ An amazing Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
